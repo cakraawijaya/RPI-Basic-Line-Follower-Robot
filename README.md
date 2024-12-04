@@ -1,10 +1,10 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/cakraawijaya/Raspberry-Pi-Pico-based-Line-Follower-Robot?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![GitHub last commit](https://img.shields.io/github/last-commit/cakraawijaya/RPI-Basic-Line-Follower-Robot?logo=Codeforces&logoColor=white&color=%23F7DF1E)
 ![Project](https://img.shields.io/badge/Project-Raspberry-light.svg?style=flat&logo=raspberrypi&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# Raspberry-Pi-Pico-based-Line-Follower-Robot
+# RPI-Basic-Line-Follower-Robot
 Robots are tools that can ease the burden on humans. Robots can be controlled by humans directly, but actually robots can also make their own decisions if given an intelligent algorithm. The type of robot that is often used in school activities is a wheeled robot. A wheeled robot is a robot that moves by using wheels. The purpose of this project is to get a robot that can recognize lines. This project has been implemented and took approximately 3 days. This robot has been equipped with an infrared sensor of the ``` TCRT5000 ``` type. In the process, this sensor works based on the principle of light reflection obtained from the object which is then forwarded to the phototransistor to determine the output value. If the light reflection on a dark or black object is considered inadequate, the sensor module will provide a ``` LOW ``` output, in which case the LED indicator will not light up. If the light reflection on a bright or white surface is considered adequate, the sensor module will provide a ``` HIGH ``` output, in which case the LED indicator will light up. The benefit of making this project is none other than to add insight. The results showed that the system made can function properly.
 
 <br><br>
