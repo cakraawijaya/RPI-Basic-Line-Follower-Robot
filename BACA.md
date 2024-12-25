@@ -140,6 +140,14 @@ Robot adalah alat yang mampu meringankan beban manusia. Robot dapat dikendalikan
 
 <br><br>
 
+## Catatan
+<blockquote>
+   <h3><img src="https://github.com/user-attachments/assets/932b96eb-cbc7-42f1-8938-43cb431889a5" width="16" height="16"> Penting</h3>
+   Hasil uji coba menunjukkan bahwa pergerakan motor masih kurang mulus, sehingga penerapan algoritma cerdas seperti PID dapat menjadi solusi efektif untuk meningkatkan presisi dan stabilitas gerakannya.
+</blockquote>
+
+<br><br>
+
 ## Apresiasi
 Jika karya ini bermanfaat bagi anda, maka dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan mengklik tombol ``` ⭐Bintang ``` di bagian atas repositori.
 

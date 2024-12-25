@@ -140,6 +140,14 @@ Robots are tools that can ease the burden on humans. Robots can be controlled by
 
 <br><br>
 
+## Notes
+<blockquote>
+   <h3><img src="https://github.com/user-attachments/assets/932b96eb-cbc7-42f1-8938-43cb431889a5" width="16" height="16"> Important</h3>
+   The test results show that the movement of the motor is still not smooth enough, so the application of intelligent algorithms such as PID can be an effective solution to improve the precision and stability of its movement.
+</blockquote>
+
+<br><br>
+
 ## Appreciation
 If this work is useful to you, then support this work as a form of appreciation to the author by clicking the ``` ⭐Star ``` button at the top of the repository.
 
