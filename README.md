@@ -39,7 +39,7 @@ Robots are tools that can ease the burden on humans. Robots can be controlled by
    <table><tr><td width="810">
 
    ```
-   https://bit.ly/UF2_RPIpico_Bootloader
+   https://bit.ly/MicroPython_UF2_RPIpico
    ```
 
    </td></tr></table>
